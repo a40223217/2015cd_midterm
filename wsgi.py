@@ -107,7 +107,7 @@ class Hello(object):
         
     <form method=POST action=doCheck>
 
-    四設二乙 40223223 洪賓志
+    四設二乙 40223217 周俊廷
     請輸入您所猜的整數:<input type=text name=guess><br />
     <input type=submit value=send>
     </form>
